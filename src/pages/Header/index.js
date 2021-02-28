@@ -33,7 +33,7 @@ const Header =()=>{
               <Grid container>
                 <Grid item xs={12} sm={8}>
                 <Typography className={classes.welcome}>
-                  WELCOME TO GOT TRIP TRAVEL
+                  WELCOME TO GOT TRIP TRAVELS
                 </Typography>
                 </Grid>  
                 <Grid item xs={12} sm={4}>
